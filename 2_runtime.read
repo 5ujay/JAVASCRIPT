@@ -1,0 +1,9 @@
+runtime environment means a infrastructure
+to execute js code
+
+ex. chrome v8 Engine , firefox , safari ,etc
+
+Node.js : Extends js capabilites to server side programing
+
+Handles non-blocking opeartion -: async support
+ex.event loop , callback , promises
